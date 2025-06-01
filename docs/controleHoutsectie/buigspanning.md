@@ -30,11 +30,13 @@ tags:
 - Vervormingen
 - ! k_mod bij trek loodrecht op de vezel
 
-## K_mod & k_def
-- beide zijn veiligheidsfactoren voor belastingsduur & klimaatklasse
+## k_mod
+- k_mod is een veiligheidsfactor volgens belastingsduur & klimaatklasse (CC)
+- k_mod reduceert de draagkracht van het materiaal in de houtcontroles
+- niet te verwarren met k_def die het kruipgedrag van het materiaal toevoegt in de doorbuigingscontrole
 - k_mod wordt bepaald door keuze belastingen in combinatie met kortste duur in die belastingscombinatie
 
-Modificatie coëff. k_mod volgens EC5:
+Modificatie coëfficiënt k_mod volgens EC5:
 
 | Belastingsduur     | Klimaatklasse 1 | Klimaatklasse 2 |  Klimaatklasse 3 |
 | --------           | -------         | -------         | -------          |
@@ -43,7 +45,15 @@ Modificatie coëff. k_mod volgens EC5:
 | Gemiddelde duur    | 0,80            | 0,80            | 0,65             |
 | Korte duur         | 0,90            | 0,90            | 0,70             |
 | Ogenblikkelijk     | 1,10            | 1,10            | 0,90             |
+| Accidenteel        | 1,10            | 1,10            | 1,10             |
+| Brand              | 1,00            | 1,00            | 1,00             |
 
+///////// Accidenteel en brand bij CC3 nog te verifiëren, alsook tabelnummer nog aan te vullen
+
+- gamma_m is bij de accidentele of brandsituatie gelijk aan 1,0
+- Zwembad = klimaatklasse 2
+
+///////// Definieer klimaatklasses, ook voor hfst vochtbeheersing
 
 ### NL-NB: k_mod bij trek ⊥ op de vezel
     
@@ -67,8 +77,16 @@ Modificatie coëfficiënt k_mod volgens NEN-EC5-NB:
 | Korte duur         | 0,80            | 0,80            | 0,65             |
 | Ogenblikkelijk     | 1,10            | 1,10            | 0,75             |
     
-- Zwembad klimaatklasse 2
-- Brandcombinatie kmod = 1, gamma_m = 1
-- Accidentele combinatie kmod = 1.1 (NL & BE), gamma_m = 1, perm * ?
-- Max kracht delen door k_mod om grootste belastingscombo te vinden voor verdere detailberekeningen
 
+
+## k_def
+- k_def is een veiligheidsfactor volgens klimaatklasse (CC)
+- k_def verhoogt de resulterenede doorbuiging in de gebruikssituatie om het effect van kruip in rekening te brengen
+
+/////// doorbuigingsformules met k_def
+
+Vervormingscoëfficient k_def volgens EC5:
+
+| Belastingsduur     | Klimaatklasse 1 | Klimaatklasse 2 |  Klimaatklasse 3 |
+| --------           | -------         | -------         | -------          |
+|                    | 0,60            | 0,80            | 2,00             |

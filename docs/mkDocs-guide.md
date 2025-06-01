@@ -1,8 +1,6 @@
 # mkDocs guide
 
-[Instruction site]( https://squidfunk.github.io/mkdocs-material/)
-
-https://squidfunk.github.io/mkdocs-material/
+[Instruction site]( https://squidfunk.github.io/mkdocs-material/)  https://squidfunk.github.io/mkdocs-material/
 
 Deze site is gegenereerd met de mkdocs bibliotheek. Deze combineert een 'markdown'-bestand (.md) per pagina tot een wiki-site met inhoudsopgave.
 

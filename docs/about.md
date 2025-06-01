@@ -1,7 +1,7 @@
 # About
 
-This is the about section
+Gebasseerd op EC5, gepubliceerde design guides voor EC5 en projecten LTS
 
-Build by Kevin
+Opgesteld door Kevin Devrome
 
-Knowledge from LTS & EC5
+Aangevuld door ___

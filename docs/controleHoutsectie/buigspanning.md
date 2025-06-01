@@ -47,15 +47,17 @@ Modificatie coëff. k_mod volgens EC5:
 
 ### NL-NB: k_mod bij trek ⊥ op de vezel
     
--Van belang bij verjongingen, sparingen en ophangen aan de onderrand
+- Van belang bij verjongingen, sparingen en ophangen aan de onderrand
 
 > Voor trekspanningen loodrecht op de vezelrichting die horen bij:
+> 
 > - 6.1.3 Trek loodrecht op de vezelrichting
 > - 6.4.3(6) en (7) Liggers met een tweezijdig taps verlopende hoogte, gebogen liggers, zadeldakliggers
 > - 6.4.4 en 6.4.5 Volledoorsnedevingerlassen als gegeven in deze nationale bijlage (NEN)
+> 
 > Moeten de waarden voor k_mod volgens tabel NB.1 zijn gebruikT.
 
-Modificatie coëff. k_mod volgens NEN-EC5-NB:
+Modificatie coëfficiënt k_mod volgens NEN-EC5-NB:
 
 | Belastingsduur     | Klimaatklasse 1 | Klimaatklasse 2 |  Klimaatklasse 3 |
 | --------           | -------         | -------         | -------          |

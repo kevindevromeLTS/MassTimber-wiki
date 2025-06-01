@@ -17,6 +17,6 @@ Traagheid van sectie I_yy
 
 Formule volgens EC5:
 
-## Bij brand:
+## Brandsituatie
 
-Brandreductie sectie
+Brandreductie sectie vs materiaalreductie

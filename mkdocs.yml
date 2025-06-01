@@ -50,6 +50,7 @@ nav:
     - Rekenkundige factoren: controleHoutsectie/factoren.md
     - Schuifspanning: controleHoutsectie/schuifspanning.md
   - Verbindingen:
+    - Richtlijnen verbindingen: verbindingen/richtlijnen.md
     - Randafstanden: verbindingen/randafstanden.md
   - CW Plugins:
     - Labeling: CWPlugins/labeling.md

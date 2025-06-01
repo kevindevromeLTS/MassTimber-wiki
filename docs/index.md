@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# Welkom bij de MassTimber wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Gebasseerd op EC5, design guides voor EC5 en projecten LTS
 
-## Commands
+Opgesteld door Kevin Devrome
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Aangevuld door ___

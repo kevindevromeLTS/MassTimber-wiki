@@ -3,5 +3,6 @@
 ```python title="labeling.py"
 def(test):
     if True:
+        print("run")
         return
 ```

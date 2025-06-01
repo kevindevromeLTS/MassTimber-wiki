@@ -1,8 +1,8 @@
 #Normen - bronnen
 
-https://www.buildwise.be/nl/normen-en-regelgeving/constructieve-eurocodes/#fiches
+- https://www.buildwise.be/nl/normen-en-regelgeving/constructieve-eurocodes/#fiches
 
-[nbn-en-1990.pdf (buildwise.be)](https://www.buildwise.be/media/lnwgdz3y/nbn-en-1990.pdf)
+- [nbn-en-1990.pdf (buildwise.be)](https://www.buildwise.be/media/lnwgdz3y/nbn-en-1990.pdf)
 
 Mobiele belastingen: [nbn-en-1991-1-1.pdf (buildwise.be)](https://www.buildwise.be/media/td4ltgij/nbn-en-1991-1-1.pdf)
 

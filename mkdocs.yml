@@ -46,6 +46,7 @@ nav:
   - Home: index.md
   - About: about.md
   - Controles houtsectie:
+    - Normen - bronnen: controleHoutsectie/Normen-bronnen.md
     - Buigspanning: controleHoutsectie/buigspanning.md
     - Schuifspanning: controleHoutsectie/schuifspanning.md
   - CW Plugins:

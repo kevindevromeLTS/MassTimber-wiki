@@ -1,5 +1,11 @@
 # Randafstanden
 
+## Schema
+
+Interne naamgeving LTS:
+
+![schema](randAfstandenSchema.png "schema")
+
 ## Bouten
 
 Randafstanden bouten volgens EC5 tabel8.4

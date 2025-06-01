@@ -2,7 +2,7 @@
 
 ## Bouten
 
-Randafstanden bouten volgens EC5 tabel///////
+Randafstanden bouten volgens EC5 tabel8.4
 
 |     | a1            | a2        | a3t         | a3c      | a4t         | a4c |
 | --- | ---           | ---       | ---         | ---      | ---         | --- |
@@ -19,7 +19,7 @@ Randafstanden bouten volgens EC5 tabel///////
 
 a2 en a3c verschillend
 
-Randafstanden stiften volgens EC5 tabel///////
+Randafstanden stiften volgens EC5 tabel8.5
 
 |     | a1            | a2        | a3t         | a3c      | a4t         | a4c |
 | --- | ---           | ---       | ---         | ---      | ---         | --- |
@@ -43,3 +43,17 @@ Zie Rothoblaas boeken per product
 - Er moet hout rondom de schroef resteren om kracht over te kunnen dragen.
 
 Zie smartbook timber screws van Rothoblaas voor randafstand ifv benuttingsgraad schroef in brandsituatie
+
+## Nagels
+
+- rho_k = rho_G,k = 370kg/m³
+
+Randafstanden nagels volgens EC5 tabel8.2
+
+|  | a1 | a2 | a3t | a3c | a4t | a4c |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | tussenafstand | d | eindafstand  | e | randafstand | r |
+|  | evenwijdig | loodrecht | belast | onbelast | belast | onbelast |
+| D≥5 verticale last | (5+0)d | 5d | (10+0)d | 10d | (5+5)d | 5d |
+| D5 | 25 | 25 | 75 | 50 | 50 | 25 |
+| D5 + staal | 18 | 18 | 75 | 50 | 50 | 25 |

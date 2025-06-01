@@ -3,7 +3,9 @@ tags:
     - brandsituatie
 ---
 
-# Controles houtsectie
+# Rekenkundige factoren
+
+Rekenkudnige factoren volgens EC0-EC5
 
 ## Combinatiefactoren
 - Accidenteel - brand: 1.0* perm + 0.2 winddruk, gamma_m = 1.0, kmod ?= 0.9
@@ -18,7 +20,7 @@ tags:
 - Comb 6.10a 1.35p + 1.5*q_red; 6.10b 1.2p * 1.5q
 - Tijdelijke last bij montage: simpel rekenen als wind met kmod 1,1. Probeer de 1,5 UGT factor te behouden. Meer in detail → geen onderhoud, geen sneeuw, wind reduceren met seizoensfactor, gebruiksklasse veel korter
 
-## NL: variaties
+### NL: variaties
 - wind is kort ipv onmiddelijk → kmod = 0.9
 - afschuifkracht op oppervlakken door windwrijving
 - Sneeuwophoping tot 4x, terwijl in BE slechts tot 2x

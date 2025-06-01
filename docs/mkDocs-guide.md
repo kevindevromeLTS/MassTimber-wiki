@@ -28,4 +28,11 @@ Required: VSCode, python, git als software, mkdocs via pip.
 
 Tutorial voorziet github automation instructiebestand. Deze is out of date, vervang functies volgens instructies op deze [community-post](https://github.com/orgs/community/discussions/152695)
 
-Eens up en running kan deze binnen github bewerkt worden. Dit werkt vlot en is overal toegankelijk uit de cloud, dus perfect voor standaard bewerkingen.
+```yaml
+actions/checkout@v3 => actions/checkout@v4
+actions/configure-pages@v3 => actions/configure-pages@v4
+actions/upload-pages-artifact@v2 => actions/upload-pages-artifact@v3
+actions/deploy-pages@v2 => actions/deploy-pages@v4
+```
+
+Eens up en running kan deze binnen github bewerkt worden. Dit werkt vlot en is overal toegankelijk uit de cloud, dus perfect voor standaard bewerkingen. De github automation opent een linux docker waarin de site opnieuw gebouwd wordt, waarna deze gepost wordt naar de publieke github pagina.

@@ -51,3 +51,4 @@ nav:
   - CW Plugins:
     - Labeling: CWPlugins/labeling.md
   - Tags: tags.md
+  - mkDocs handleiding: mkDocs-guide.md

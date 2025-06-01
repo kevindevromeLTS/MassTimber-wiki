@@ -1,6 +1,6 @@
 # mkDocs guide
 
-[Instruction site]: https://squidfunk.github.io/mkdocs-material/
+[Instruction site]( https://squidfunk.github.io/mkdocs-material/)
 
 https://squidfunk.github.io/mkdocs-material/
 

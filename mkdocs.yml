@@ -47,7 +47,7 @@ nav:
   - About: about.md
   - Controles houtsectie:
     - Normen - bronnen: controleHoutsectie/Normen-bronnen.md
-    - Rekenkudnige factoren: controleHoutsectie/factoren.md
+    - Rekenkundige factoren: controleHoutsectie/factoren.md
     - Schuifspanning: controleHoutsectie/schuifspanning.md
   - Verbindingen:
     - Randafstanden: verbindingen/randafstanden.md

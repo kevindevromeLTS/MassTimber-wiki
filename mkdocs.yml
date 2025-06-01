@@ -2,6 +2,7 @@ site_name: MassTimber wiki
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+  logo: imagesL0/Logo LTS.jpg
   palette:
     #Palette toggle for light mode
     - scheme: default

@@ -49,6 +49,8 @@ nav:
     - Normen - bronnen: controleHoutsectie/Normen-bronnen.md
     - Rekenkudnige factoren: controleHoutsectie/factoren.md
     - Schuifspanning: controleHoutsectie/schuifspanning.md
+  - Verbindingen:
+    - Randafstanden: verbindingen/randafstanden.md
   - CW Plugins:
     - Labeling: CWPlugins/labeling.md
   - Tags: tags.md

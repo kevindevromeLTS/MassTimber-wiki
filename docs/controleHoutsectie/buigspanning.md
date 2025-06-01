@@ -34,11 +34,15 @@ tags:
 - beide zijn veiligheidsfactoren voor belastingsduur & klimaatklasse
 - k_mod wordt bepaald door keuze belastingen in combinatie met kortste duur in die belastingscombinatie
 
-| Month    | Savings |
-| -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+Modificatie coëff. k_mod volgens EC5:
+
+| Belastingsduur     | Klimaatklasse 1 | Klimaatklasse 2 |  Klimaatklasse 3 |
+| --------           | -------         | -------         | -------          |
+| Permanent          | 0,60            | 0,60            | 0,50             |
+| Lange duur         | 0,70            | 0,70            | 0,55             |
+| Gemiddelde duur    | 0,80            | 0,80            | 0,65             |
+| Korte duur         | 0,90            | 0,90            | 0,70             |
+| Ogenblikkelijk     | 1,10            | 1,10            | 0,90             |
 
 
 - NL: k_mod trek _L

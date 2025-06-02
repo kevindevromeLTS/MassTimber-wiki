@@ -69,7 +69,7 @@ Modificatie coëfficiënt k_mod volgens EC5:
 > 
 > Moeten de waarden voor k_mod volgens tabel NB.1 zijn gebruikT.
 
-Modificatie coëfficiënt k_mod volgens NEN-EC5-NB:
+Modificatie coëfficiënt k_mod volgens NEN-EC5-NB Tabel NB.1:
 
 | Belastingsduur     | Klimaatklasse 1 | Klimaatklasse 2 |  Klimaatklasse 3 |
 | --------           | -------         | -------         | -------          |
